@@ -75,6 +75,7 @@ function App() {
 
         const {heatmap, points, pointsLabelled, raster} = layerRef.current;
 
+        // @ts-ignore
         mapRef.current = new Map({
             layers: [raster, points, pointsLabelled, heatmap],
             target: 'map',
