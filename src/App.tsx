@@ -1,6 +1,4 @@
 import {useEffect, useRef} from 'react'
-import './App.css'
-
 import KML from 'ol/format/KML.js';
 import Map from 'ol/Map.js';
 import StadiaMaps from 'ol/source/StadiaMaps.js';
