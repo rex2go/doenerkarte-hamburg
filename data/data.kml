@@ -1130,14 +1130,6 @@
     </Placemark>
 
     <Placemark>
-      <name>Wentorf Döner</name>
-      <description>Wentorf Döner</description>
-      <Point>
-        <coordinates>10.259312179246098,53.49171357996351</coordinates>
-      </Point>
-    </Placemark>
-
-    <Placemark>
       <name>Antalya Döner</name>
       <description>Antalya Döner</description>
       <Point>
