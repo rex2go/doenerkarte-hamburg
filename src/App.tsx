@@ -63,7 +63,12 @@ function App() {
             source: new StadiaMaps({
                 layer: 'alidade_smooth_dark',
                 retina: true,
-                // apiKey: 'OPTIONAL'
+                tileLoadFunction: function (imageTile, src) {
+                    const pathname = src.split("alidade_smooth_dark/")[1]
+
+                    // @ts-ignore
+                    imageTile.getImage().src = `https://stadia-cache.rexrex231.workers.dev/${pathname}`
+                }
             }),
         })
     })
