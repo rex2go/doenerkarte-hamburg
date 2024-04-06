@@ -9,8 +9,8 @@ let xml = `<?xml version="1.0" encoding="UTF-8"?>
 <Document>`;
 
 for (const doener of data) {
-    const name = doener.name;
-    const desc = doener.description;
+    const name = doener.name.replace("&", "&amp;");
+    const desc = doener.description.replace("&", "&amp;");
     const address = doener.address;
     let coords = doener.coords.split(',').reverse().join(',').replace(' ', '');
     const price = doener.price;
