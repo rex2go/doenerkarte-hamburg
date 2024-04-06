@@ -1,0 +1,2282 @@
+[
+  {
+    "name": "Dulsberg Kebap Döner Haus",
+    "description": "Dulsberg Kebap Döner Haus",
+    "address": "Straßburger Str. 42, 22049 Hamburg",
+    "coords": "53.5817301,10.065162",
+    "price": "6,50 €",
+    "rating": ""
+  },
+  {
+    "name": "The Döner",
+    "description": "The Döner",
+    "address": "Holzmühlenstraße 27, 22041 Hamburg",
+    "coords": "53.5799727,10.0817794",
+    "price": "7,00 €",
+    "rating": ""
+  },
+  {
+    "name": "Kumpir & Döner",
+    "description": "Kumpir & Döner",
+    "address": "Wandsbeker Marktstraße 157, 22041 Hamburg",
+    "coords": "53.573864150000006,10.071813871535742",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Dr. Kebap",
+    "description": "Dr. Kebap",
+    "address": "Wandsbeker Marktstraße 47, 22041 Hamburg",
+    "coords": "53.5714842,10.0642916",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Kebab Zone",
+    "description": "Kebab Zone",
+    "address": "Krausestraße 118, 22049 Hamburg",
+    "coords": "53.57637565,10.058246998250777",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "BARIS Grillhaus",
+    "description": "BARIS Grillhaus",
+    "address": "Wandsbeker Marktstraße 80, 22041 Hamburg",
+    "coords": "53.5728322,10.0692566",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Döner Time",
+    "description": "Döner Time",
+    "address": "Wandsbeker Chaussee 272, 22089 Hamburg",
+    "coords": "53.569905750000004,10.059229849999998",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Köz Adana",
+    "description": "Köz Adana",
+    "address": "Wandsbeker Marktstraße 9, 22041 Hamburg",
+    "coords": "53.57097485,10.061461145102982",
+    "price": "7,30 €",
+    "rating": ""
+  },
+  {
+    "name": "TONNDORF GRILL DÖNER IMBISS",
+    "description": "TONNDORF GRILL DÖNER IMBISS",
+    "address": "Ahrensburger Str. 111, 22045 Hamburg",
+    "coords": "53.58007795,10.103908848886135",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Arda Restaurant",
+    "description": "Arda Restaurant",
+    "address": "Ahrensburger Str. 105, 22045 Hamburg",
+    "coords": "53.5798885,10.1030703",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Döner Wandsbek",
+    "description": "Döner Wandsbek",
+    "address": "Langenbek, 22045 Hamburg",
+    "coords": "53.432378,9.9904265",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "23sarcon döner",
+    "description": "23sarcon döner",
+    "address": "Charlottenburger Str. 27A, 22045 Hamburg",
+    "coords": "53.5759349,10.1346797",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Hamburg Döner",
+    "description": "Hamburg Döner",
+    "address": "Öjendorfer Damm 64, 22043 Hamburg",
+    "coords": "53.57233735,10.1367194239845",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Heisse Ecke",
+    "description": "Heisse Ecke",
+    "address": "August-Krogmann-Str. 22, 22159 Hamburg",
+    "coords": "53.6079323,10.1169907",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Ardacan Grillhaus",
+    "description": "Ardacan Grillhaus",
+    "address": "August-Krogmann-Str. 12, 22159 Hamburg",
+    "coords": "53.6071906,10.1181674",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Köz Adana Farmsen",
+    "description": "Köz Adana Farmsen",
+    "address": "August-Krogmann-Str. 1A, 22159 Hamburg",
+    "coords": "53.6064199,10.1188999",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Balat Döner - Wandsbek-Gartenstadt",
+    "description": "Balat Döner - Wandsbek-Gartenstadt",
+    "address": "Etage 0 Wandsbek-Gartenstadt 22049 Hamburg",
+    "coords": "53.59235818559044,10.075439686306083",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Berne Kebap Haus",
+    "description": "Berne Kebap Haus",
+    "address": "Hermann-Balk-Straße 117, 22147 Hamburg",
+    "coords": "53.6253466,10.1387259",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Dö Back",
+    "description": "Dö Back",
+    "address": "Berner Heerweg 372, 22159 Hamburg",
+    "coords": "53.6263474,10.1392219",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Tunnel Döner",
+    "description": "Tunnel Döner",
+    "address": "Mönckebergtunnel 1, 20095 Hamburg",
+    "coords": "53.551598385554215,10.006264189425817",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Havin Grill",
+    "description": "Havin Grill",
+    "address": "Steintorwall 18-20, 20095 Hamburg",
+    "coords": "53.55222535,10.00614999145781",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Salli's",
+    "description": "Salli's",
+    "address": "Wandelhalle Hamburg, Glockengießerwall 8 - 10, 20095 Hamburg",
+    "coords": "53.55360899177553,10.00649458125609",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Tunnel Döner in der Hauptbahnhofs Halle",
+    "description": "Tunnel Döner in der Hauptbahnhofs Halle",
+    "address": "Heidi-Kabel-Platz, 20099 Hamburg",
+    "coords": "53.55380947803046,10.008306540718694",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Sallis Döner Grill & Bäckerei",
+    "description": "Sallis Döner Grill & Bäckerei",
+    "address": "Kirchenallee 55-56, 20099 Hamburg",
+    "coords": "53.5529918,10.008928",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "SoulKEBAB",
+    "description": "SoulKEBAB",
+    "address": "Adenauerallee 78, 20097 Hamburg",
+    "coords": "53.5520306,10.0111017",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Köz Ocakbasi",
+    "description": "Köz Ocakbasi",
+    "address": "Steindamm 6, 20099 Hamburg",
+    "coords": "53.552795599999996,10.010974950000005",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "As Urfa Kebap Restaurant",
+    "description": "As Urfa Kebap Restaurant",
+    "address": "Steindamm 19, 20099 Hamburg",
+    "coords": "53.5535906,10.011615093183522",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Saray Köz",
+    "description": "Saray Köz",
+    "address": "Kreuzweg 12, 20099 Hamburg",
+    "coords": "53.5537589,10.0135617",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Batman Restaurant",
+    "description": "Batman Restaurant",
+    "address": "Steindamm 58, 20099 Hamburg",
+    "coords": "53.5542447,10.0144957",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Ankara Kebap Tantuni",
+    "description": "Ankara Kebap Tantuni",
+    "address": "Böckmannstraße 26, 20099 Hamburg",
+    "coords": "53.55447465,10.0155906579696",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Sait Grillhaus",
+    "description": "Sait Grillhaus",
+    "address": "Steindamm 4, 20099 Hamburg",
+    "coords": "53.5527461,10.010862654162992",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Köz Istanbul",
+    "description": "Köz Istanbul",
+    "address": "Steindamm 5, 20099 Hamburg",
+    "coords": "53.5529913,10.0104974",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Baris Grillhaus",
+    "description": "Baris Grillhaus",
+    "address": "Lange Reihe 1, 20099 Hamburg",
+    "coords": "53.55583575,10.008726827054716",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Miss Döner",
+    "description": "Miss Döner",
+    "address": "Carl-von-Ossietzky-Platz 1, 20099 Hamburg",
+    "coords": "53.5567719,10.0106344",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "döner time",
+    "description": "döner time",
+    "address": "Beim Strohhause 24, 20097 Hamburg",
+    "coords": "53.5529605,10.022490440253764",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "HBB Store Schnell-Imbiss",
+    "description": "HBB Store Schnell-Imbiss",
+    "address": "Berliner Tor, 20099 Hamburg",
+    "coords": "53.553713,10.0244162",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Wenden Kebab",
+    "description": "Wenden Kebab",
+    "address": "Wendenstraße 197, 20537 Hamburg",
+    "coords": "53.549901899999995,10.035690727873558",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "DER URFA DÖNER",
+    "description": "DER URFA DÖNER",
+    "address": "Der Urfa Döner, Landwehr 63, 22087 Hamburg",
+    "coords": "53.560737983136136,10.038124145324192",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Sphinx Döner Landwehr",
+    "description": "Sphinx Döner Landwehr",
+    "address": "Landwehr 39, 22087 Hamburg",
+    "coords": "53.561506,10.0373705",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Döner &Pommes Paradies",
+    "description": "Döner &Pommes Paradies",
+    "address": "Wandsbeker Stieg 38, 22087 Hamburg",
+    "coords": "53.5619282,10.0316877",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Haji Baba Kebab House",
+    "description": "Haji Baba Kebab House",
+    "address": "Steindamm 31, 20099 Hamburg",
+    "coords": "53.595608,9.9679889",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Öz Urfa Kebap Haus",
+    "description": "Öz Urfa Kebap Haus",
+    "address": "Steindamm 43, 20099 Hamburg",
+    "coords": "53.55482125,10.01435387288836",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Lades Holzkohlegrill Restaurant Hamburg",
+    "description": "Lades Holzkohlegrill Restaurant Hamburg",
+    "address": "Steindamm 70, 20099 Hamburg",
+    "coords": "53.5546463,10.015315",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Afiyet",
+    "description": "Afiyet",
+    "address": "Böckmannstraße 40, 20099 Hamburg",
+    "coords": "53.5542535,10.016602062956206",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Saray döner",
+    "description": "Saray döner",
+    "address": "Ballindamm 40, 20095 Hamburg",
+    "coords": "53.5514697,9.996323175748685",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Perle Döner",
+    "description": "Perle Döner",
+    "address": "Spitalerstraße 22, 20095 Hamburg",
+    "coords": "53.55209885,9.999842642007799",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Ali's Gemüsekebab",
+    "description": "Ali's Gemüsekebab",
+    "address": "Ballindamm 40, 20095 Hamburg",
+    "coords": "53.5514697,9.996323175748685",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Arin Kebap",
+    "description": "Arin Kebap",
+    "address": "Gerhofstraße 40, 20354 Hamburg",
+    "coords": "53.5548744,9.9892168",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Hamza Kebab",
+    "description": "Hamza Kebab",
+    "address": "Dammtorstraße 23, 20354 Hamburg",
+    "coords": "53.5573894,9.989098299037783",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Kardelen Restaurant",
+    "description": "Kardelen Restaurant",
+    "address": "Steinwegpassage 6, 20355 Hamburg",
+    "coords": "53.5508627,9.9823804",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Mardin Döner",
+    "description": "Mardin Döner",
+    "address": "Großer Burstah, 20457 Hamburg",
+    "coords": "53.5483695,9.988832",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Rödings Döner",
+    "description": "Rödings Döner",
+    "address": "Rödingsmarkt 11, 20459 Hamburg",
+    "coords": "53.54789065,9.987124053818622",
+    "price": "k.A.",
+    "rating": ""
+  },
+  {
+    "name": "Adana Grill",
+    "description": "Adana Grill",
+    "address": "Holsteinischer Kamp 30, 22081 Hamburg",
+    "coords": "53.5748786,10.0399439",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Kebo Döner",
+    "description": "Kebo Döner",
+    "address": "Dehnhaide 4, 22081 Hamburg",
+    "coords": "53.5792348,10.0416481",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Citir Döner",
+    "description": "Citir Döner",
+    "address": "Hoheluftchaussee 103, 20253 Hamburg",
+    "coords": "53.58255145,9.970675117389133",
+    "price": "k.A.",
+    "rating": "4,70"
+  },
+  {
+    "name": "Fuhle Grill",
+    "description": "Fuhle Grill",
+    "address": "Fuhlsbüttler Str. 110, 22305 Hamburg",
+    "coords": "53.5889212,10.0460083",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Beydagi Kebap",
+    "description": "Beydagi Kebap",
+    "address": "Habichtstraße 96, 22305 Hamburg",
+    "coords": "53.5933366,10.0523389",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Sato Grill Imbiss",
+    "description": "Sato Grill Imbiss",
+    "address": "Heubergredder 52, 22297 Hamburg",
+    "coords": "53.6066541,10.0119095",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "kebab kitchen",
+    "description": "kebab kitchen",
+    "address": "Fuhlsbüttler Str. 386, 22309 Hamburg",
+    "coords": "53.6018599,10.0412495",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Nefis Döner",
+    "description": "Nefis Döner",
+    "address": "Bramfelder Ch 323, 22177 Hamburg",
+    "coords": "53.6186888,10.0795596",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Edo Dönerhaus Hamburg",
+    "description": "Edo Dönerhaus Hamburg",
+    "address": "Bramfelder Ch 296, 22177 Hamburg",
+    "coords": "53.6170176,10.0781811",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Eatstanbul döner lounge",
+    "description": "Eatstanbul döner lounge",
+    "address": "Bramfelder Ch 251, 22177 Hamburg",
+    "coords": "53.6139625,10.0756187",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Kebap Lounge Winterhude",
+    "description": "Kebap Lounge Winterhude",
+    "address": "Winterhuder Marktpl. 16, 22299 Hamburg",
+    "coords": "53.595037,9.999480983586377",
+    "price": "k.A.",
+    "rating": "4,2"
+  },
+  {
+    "name": "Kaya Salat&Feinkost | Bramfeld",
+    "description": "Kaya Salat&Feinkost | Bramfeld",
+    "address": "Bramfelder Dorfpl. 18, 22179 Hamburg",
+    "coords": "53.6122271,10.0784182",
+    "price": "k.A.",
+    "rating": "3,60"
+  },
+  {
+    "name": "Der Ali",
+    "description": "Der Ali",
+    "address": "Gründgensstraße, 22309 Hamburg",
+    "coords": "53.610526,10.0600605",
+    "price": "k.A.",
+    "rating": "3,70"
+  },
+  {
+    "name": "Döner Grillhaus Hamburg",
+    "description": "Döner Grillhaus Hamburg",
+    "address": "Eidelstedter Weg 68, 20255 Hamburg",
+    "coords": "53.5828975,9.9484128",
+    "price": "k.A.",
+    "rating": "3,10"
+  },
+  {
+    "name": "BERLIN DÖNER KIOSK",
+    "description": "BERLIN DÖNER KIOSK",
+    "address": "Steilshooper Str. 308B, 22309 Hamburg",
+    "coords": "53.6081815,10.0573028",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Sultans Kitchen",
+    "description": "Sultans Kitchen",
+    "address": "Fabriciusstraße 91, 22177 Hamburg",
+    "coords": "53.6018044,10.0623205",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Langenfelde Grill Döner Pizza Burger",
+    "description": "Langenfelde Grill Döner Pizza Burger",
+    "address": "Försterweg 14, 22525 Hamburg",
+    "coords": "53.5799831,9.931550742799672",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Dönerqueen",
+    "description": "Dönerqueen",
+    "address": "Jarrestraße 57, 22303 Hamburg",
+    "coords": "53.5853968,10.0265678",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Ess-Bahn Döner",
+    "description": "Ess-Bahn Döner",
+    "address": "Elbgaustraße 104, 22523 Hamburg",
+    "coords": "53.6035764,9.8931428",
+    "price": "k.A.",
+    "rating": "3,60"
+  },
+  {
+    "name": "Firat Kebap",
+    "description": "Firat Kebap",
+    "address": "Weidestraße 85, 22083 Hamburg",
+    "coords": "53.5798662,10.0311373",
+    "price": "k.A.",
+    "rating": "4,70"
+  },
+  {
+    "name": "Sert Grill Imbiss Schnellimbiss",
+    "description": "Sert Grill Imbiss Schnellimbiss",
+    "address": "Mozartstraße 12, 22083 Hamburg",
+    "coords": "53.5772999,10.020295608245851",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "King's Döner",
+    "description": "King's Döner",
+    "address": "Lohkampstraße 7, 22523 Hamburg",
+    "coords": "53.6084612,9.9028202",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Grill House",
+    "description": "Grill House",
+    "address": "Wagnerstraße 7, 22081 Hamburg",
+    "coords": "53.456319699999995,9.962221050000002",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Döner Pavillon",
+    "description": "Döner Pavillon",
+    "address": "Oldesloer Str. 2, 22457 Hamburg",
+    "coords": "53.6327949,9.9113477",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "LIMON",
+    "description": "LIMON",
+    "address": "Mühlenkamp 18, 22303 Hamburg",
+    "coords": "53.581068,10.0123989",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Cigköftem",
+    "description": "Cigköftem",
+    "address": "Osdorfer Landstraße 131, 22609 Hamburg",
+    "coords": "53.5708117,9.86152224194608",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "My Kebap's",
+    "description": "My Kebap's",
+    "address": "Gertigstraße 9, 22303 Hamburg",
+    "coords": "53.5815618,10.0131077",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Dubara",
+    "description": "Dubara",
+    "address": "Jarrestraße 42, 22303 Hamburg",
+    "coords": "53.5847349,10.0249181",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Elbe Kebap House",
+    "description": "Elbe Kebap House",
+    "address": "Osdorfer Landstraße 112, 22549 Hamburg",
+    "coords": "53.5720422,9.863268819311516",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Stadtpark Grill Haus",
+    "description": "Stadtpark Grill Haus",
+    "address": "Borgweg 11A, 22303 Hamburg",
+    "coords": "53.5904858,10.0153048",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Leckerbissen",
+    "description": "Leckerbissen",
+    "address": "Jacobsenweg 2, 22525 Hamburg",
+    "coords": "53.5958999,9.913241601014064",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "King Döner",
+    "description": "King Döner",
+    "address": "Conventstraße 8-10, 22089 Hamburg",
+    "coords": "53.5640947,10.0365611",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Idol Döner Pizzeria Hamburg",
+    "description": "Idol Döner Pizzeria Hamburg",
+    "address": "Wandsbeker Chaussee 271, 22089 Hamburg",
+    "coords": "53.569396350000005,10.055212794116372",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Hammer Döner",
+    "description": "Hammer Döner",
+    "address": "Hammer Steindamm 66, 20535 Hamburg",
+    "coords": "53.5643301,10.0569399",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Döner Kurve",
+    "description": "Döner Kurve",
+    "address": "Volksparkstraße 79, 22525 Hamburg",
+    "coords": "53.5912992,9.9211857",
+    "price": "k.A.",
+    "rating": "5,00"
+  },
+  {
+    "name": "Safi Food",
+    "description": "Safi Food",
+    "address": "Wandsbeker Chaussee 325, 22089 Hamburg",
+    "coords": "53.57057495,10.059924181942675",
+    "price": "k.A.",
+    "rating": "4,70"
+  },
+  {
+    "name": "Stellingen Döner Kebap",
+    "description": "Stellingen Döner Kebap",
+    "address": "Volksparkstraße 34B, 22525 Hamburg",
+    "coords": "53.5912992,9.9211857",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Sultan's Döner-Imbiss",
+    "description": "Sultan's Döner-Imbiss",
+    "address": "Hammer Steindamm 62, 20535 Hamburg",
+    "coords": "53.5646608,10.057067133762887",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Delal Döner",
+    "description": "Delal Döner",
+    "address": "Dammstraße 10, 22523 Hamburg",
+    "coords": "53.6038533,9.8919277",
+    "price": "k.A.",
+    "rating": "3,20"
+  },
+  {
+    "name": "Hazar Grill Hamburg",
+    "description": "Hazar Grill Hamburg",
+    "address": "Carl-Petersen-Straße 74, 20535 Hamburg",
+    "coords": "53.5578974,10.0464765",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Harput Grill & Döner",
+    "description": "Harput Grill & Döner",
+    "address": "Hammer Landstraße 232, 20537 Hamburg",
+    "coords": "53.55376,10.0653189",
+    "price": "k.A.",
+    "rating": "3,10"
+  },
+  {
+    "name": "DIYAR CIG KÖFTE KEBAP GRILL",
+    "description": "DIYAR CIG KÖFTE KEBAP GRILL",
+    "address": "Luruper Hauptstraße 254, 22547 Hamburg",
+    "coords": "53.598057,9.8621297",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Bereket Döner",
+    "description": "Bereket Döner",
+    "address": "Rennbahnstraße 38, 22119 Hamburg",
+    "coords": "53.5539765,10.0861221",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Volkan's Grillhaus Horn",
+    "description": "Volkan's Grillhaus Horn",
+    "address": "Rennbahnstraße 38 c, 22111 Hamburg",
+    "coords": "53.5538993,10.0851709",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Salman Imbiss",
+    "description": "Salman Imbiss",
+    "address": "Ottenser Hauptstraße 33, 22765 Hamburg",
+    "coords": "53.5519364,9.9295259",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Ates Grill Haus Döner & mehr...",
+    "description": "Ates Grill Haus Döner & mehr...",
+    "address": "Rennbahnstraße 36g, 22111 Hamburg",
+    "coords": "53.5541227,10.086037",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Schato Döner",
+    "description": "Schato Döner",
+    "address": "Vierbergen 24-26, 22111 Hamburg",
+    "coords": "53.5466274,10.0928544",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Mis Döner & Pizzeria",
+    "description": "Mis Döner & Pizzeria",
+    "address": "Hermannstal 101, 22119 Hamburg",
+    "coords": "53.551558299999996,10.094843749999999",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Yaprak Döner",
+    "description": "Yaprak Döner",
+    "address": "Washingtonallee 111, 22111 Hamburg",
+    "coords": "53.54306305,10.096011890326386",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Tadim",
+    "description": "Tadim",
+    "address": "Billstedter Hauptstraße 17, 22111 Hamburg",
+    "coords": "53.5417285,10.0982825",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "CHICKEN ZONE & KEBAB ZONE",
+    "description": "CHICKEN ZONE & KEBAB ZONE",
+    "address": "Billstedter Hauptstraße 51, 22111 Hamburg",
+    "coords": "53.5403122,10.102485024791015",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Döner Company",
+    "description": "Döner Company",
+    "address": "Ottenser Hauptstraße 24, 22765 Hamburg",
+    "coords": "53.5522045,9.930556729256619",
+    "price": "k.A.",
+    "rating": "3,30"
+  },
+  {
+    "name": "Center Döner",
+    "description": "Center Döner",
+    "address": "Billstedt-Center, Möllner Landstraße 3, 22111 Hamburg",
+    "coords": "53.5399001,10.1033387",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "osdorfer pizza grillhaus",
+    "description": "osdorfer pizza grillhaus",
+    "address": "Kroonhorst 11, 22549 Hamburg",
+    "coords": "53.5882452,9.8491315",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Döner Capitol",
+    "description": "Döner Capitol",
+    "address": "Reclamstraße 3, 22111 Hamburg",
+    "coords": "53.5423926,10.1077239",
+    "price": "k.A.",
+    "rating": "3,20"
+  },
+  {
+    "name": "Soulkebap Lurup",
+    "description": "Soulkebap Lurup",
+    "address": "Luruper Hauptstraße 138, 22547 Hamburg",
+    "coords": "53.591746,9.87282954064585",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Döner&Pizza 23",
+    "description": "Döner&Pizza 23",
+    "address": "Kandinskyallee 23c, 22115 Hamburg",
+    "coords": "53.5290332,10.1496103",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Ellerbek Classic Döner",
+    "description": "Ellerbek Classic Döner",
+    "address": "Waldhof 2, 25474 Ellerbek",
+    "coords": "53.6412102,9.8897643",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Artemis",
+    "description": "Artemis",
+    "address": "Mümmelmannsberg 80, 22115 Hamburg",
+    "coords": "53.5295969,10.1491914",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Schnelsener Kebap House",
+    "description": "Schnelsener Kebap House",
+    "address": "Oldesloer Str. 41, 22457 Hamburg",
+    "coords": "53.63620015,9.91720059256168",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Deniz Kebap Haus",
+    "description": "Deniz Kebap Haus",
+    "address": "Kandinskyallee 16, 22115 Hamburg",
+    "coords": "53.5270908,10.1498556",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Onkel Döner",
+    "description": "Onkel Döner",
+    "address": "Roman-Zeller-Platz 12, 22457 Hamburg",
+    "coords": "53.6469945,9.9091553",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "West Grill - Döner",
+    "description": "West Grill - Döner",
+    "address": "Friedrich-Frank-Bogen 43, 21033 Hamburg",
+    "coords": "53.4939042,10.1791203",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "City Döner & Pizza",
+    "description": "City Döner & Pizza",
+    "address": "Rudolf-Klug-Weg 5, 22455 Hamburg",
+    "coords": "53.640687099999994,9.947864726809112",
+    "price": "k.A.",
+    "rating": "4,90"
+  },
+  {
+    "name": "Hummels Döner",
+    "description": "Hummels Döner",
+    "address": "Hummelsbüttler Hauptstraße 55, 22339 Hamburg",
+    "coords": "53.6413822,10.0373022",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Premium Bistro",
+    "description": "Premium Bistro",
+    "address": "Ernst-Mittelbach-Ring 49-55, 22455 Hamburg",
+    "coords": "53.6413123,9.9495155",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Abi's Grill",
+    "description": "Abi's Grill",
+    "address": "Möllner Landstraße 144a, 22117 Hamburg",
+    "coords": "53.544294,10.145583",
+    "price": "k.A.",
+    "rating": "5,00"
+  },
+  {
+    "name": "Affenfelsen Burger",
+    "description": "Affenfelsen Burger",
+    "address": "Paul-Sorge-Straße 142A, 22455 Hamburg",
+    "coords": "53.6345407,9.9539388",
+    "price": "k.A.",
+    "rating": "3,40"
+  },
+  {
+    "name": "Ocakbasi 27 Imbiss",
+    "description": "Ocakbasi 27 Imbiss",
+    "address": "Möllner Landstraße 124, 22117 Hamburg",
+    "coords": "53.53822935,10.1234094915058",
+    "price": "k.A.",
+    "rating": "4,90"
+  },
+  {
+    "name": "Güney Döner",
+    "description": "Güney Döner",
+    "address": "Lentersweg 38, 22339 Hamburg",
+    "coords": "53.6389899,10.028390533780051",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Sunar Kebap Haus",
+    "description": "Sunar Kebap Haus",
+    "address": "Dannerallee 1a, 22119 Hamburg",
+    "coords": "53.5600632,10.1078835",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Tat Köz Grill",
+    "description": "Tat Köz Grill",
+    "address": "Barsbütteler Str. 2, 22043 Hamburg",
+    "coords": "53.5705645,10.1407288",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Bizim Döner Wellingsbüttel",
+    "description": "Bizim Döner Wellingsbüttel",
+    "address": "Rolfinckstraße 21, 22391 Hamburg",
+    "coords": "53.640985650000005,10.082829260177864",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Brothers Kebap Haus",
+    "description": "Brothers Kebap Haus",
+    "address": "Friedrich-Frank-Bogen, 21033 Hamburg",
+    "coords": "53.4939042,10.1791203",
+    "price": "k.A.",
+    "rating": "3,60"
+  },
+  {
+    "name": "König Döner",
+    "description": "König Döner",
+    "address": "Heegbarg 2A, 22391 Hamburg",
+    "coords": "53.6555848,10.0931856",
+    "price": "k.A.",
+    "rating": "3,70"
+  },
+  {
+    "name": "Bereket Döner",
+    "description": "Bereket Döner",
+    "address": "Edith-Stein-Platz 3, 21035 Hamburg",
+    "coords": "53.48688,10.1800272",
+    "price": "k.A.",
+    "rating": "3,30"
+  },
+  {
+    "name": "Mega Döner",
+    "description": "Mega Döner",
+    "address": "Farmsener Landstraße 195, 22359 Hamburg",
+    "coords": "53.6501817,10.1627592",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Sis Kebap Hamburg",
+    "description": "Sis Kebap Hamburg",
+    "address": "Curslacker Neuer Deich 31, 21029 Hamburg",
+    "coords": "53.481914849999995,10.209301554262435",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Med Kebap",
+    "description": "Med Kebap",
+    "address": "Weidenbaumsweg 3, 21029 Hamburg",
+    "coords": "53.489650600000004,10.208739863043768",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "City Döner",
+    "description": "City Döner",
+    "address": "Alte Holstenstraße 58, 21029 Hamburg",
+    "coords": "53.4900758,10.208647907643554",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Pamukkale Grill & Restaurant",
+    "description": "Pamukkale Grill & Restaurant",
+    "address": "Alte Holstenstraße 56, 21029 Hamburg",
+    "coords": "53.4900335,10.2087813",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Bizim Döner Volksdorf",
+    "description": "Bizim Döner Volksdorf",
+    "address": "Wiesenhöfen 2, 22359 Hamburg",
+    "coords": "53.6487642,10.1672683",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Pamukkale Grill & Backshop",
+    "description": "Pamukkale Grill & Backshop",
+    "address": "Weidenbaumsweg 14, 21029 Hamburg",
+    "coords": "53.4899751,10.2063722",
+    "price": "k.A.",
+    "rating": "3,70"
+  },
+  {
+    "name": "Mein Döner",
+    "description": "Mein Döner",
+    "address": "Tornberg 34, 22337 Hamburg",
+    "coords": "53.6329416,10.0551427",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Big Food Grill",
+    "description": "Big Food Grill",
+    "address": "Alte Holstenstraße 42, 21031 Hamburg",
+    "coords": "53.4914065,10.2074528",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "LA FE Langenhorner Feinkost",
+    "description": "LA FE Langenhorner Feinkost",
+    "address": "Langenhorner Markt 7, 22415 Hamburg",
+    "coords": "53.6497513,10.0133771",
+    "price": "k.A.",
+    "rating": "3,30"
+  },
+  {
+    "name": "Urfalim Döner",
+    "description": "Urfalim Döner",
+    "address": "Binnenfeldredder 36D, 21031 Hamburg",
+    "coords": "53.5031728,10.2058331",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Mis Kebap",
+    "description": "Mis Kebap",
+    "address": "Mendelstraße 26 B, 21031 Hamburg",
+    "coords": "53.5088308,10.1861228",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Boberg Döner Pizza Haus",
+    "description": "Boberg Döner Pizza Haus",
+    "address": "Heidhorst 1, 21031 Hamburg",
+    "coords": "53.5153075,10.1666309",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Antalya Döner",
+    "description": "Antalya Döner",
+    "address": "Neuengammer Hausdeich 215, 21039 Hamburg",
+    "coords": "53.4444578,10.22947",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Kaya Salat & Feinkost",
+    "description": "Kaya Salat & Feinkost",
+    "address": "Krohnstieg 41-43, 22415 Hamburg",
+    "coords": "53.6487406,10.0129249",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Heidberg Döner",
+    "description": "Heidberg Döner",
+    "address": "Holitzberg 298, 22417 Hamburg",
+    "coords": "53.6747026,10.026886173082287",
+    "price": "k.A.",
+    "rating": "3,10"
+  },
+  {
+    "name": "Restaurant Reina",
+    "description": "Restaurant Reina",
+    "address": "Langenhorner Markt 5c, 22415 Hamburg",
+    "coords": "53.6497516,10.0138841",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Köz Bingöl Restaurant",
+    "description": "Köz Bingöl Restaurant",
+    "address": "Langenhorner Chaussee 655, 22419 Hamburg",
+    "coords": "53.6782421,10.0004218",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Döner Point",
+    "description": "Döner Point",
+    "address": "Veringstraße 33, 21107 Hamburg",
+    "coords": "53.5151652,9.987055355237828",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Best Urfa",
+    "description": "Best Urfa",
+    "address": "21107 Hamburg",
+    "coords": "53.550341,10.000654",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Döner Center",
+    "description": "Döner Center",
+    "address": "Thielenstraße 5, 21109 Hamburg",
+    "coords": "53.5018964,10.0088537",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Binboga Kebap Haus",
+    "description": "Binboga Kebap Haus",
+    "address": "Veringstraße 78, 21107 Hamburg",
+    "coords": "53.5106463,9.987008398076924",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Mina Imbiss (S-Bahnhof Wilhelmsburg)",
+    "description": "Mina Imbiss (S-Bahnhof Wilhelmsburg)",
+    "address": "S-Bahnhof, Wilhelm-Strauß-Weg 1b, 21109 Hamburg",
+    "coords": "53.49785054748478, 10.00668515711877",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Pause Eminönü",
+    "description": "Pause Eminönü",
+    "address": "Veringstraße 19, 21107 Hamburg",
+    "coords": "53.51727015,9.987291956060606",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Furkaan Imbiss",
+    "description": "Furkaan Imbiss",
+    "address": "Neuenfelder Str. 97, 21109 Hamburg",
+    "coords": "53.4928393,10.013311005687422",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Dock8 Döner",
+    "description": "Dock8 Döner",
+    "address": "Veritaskai 8, 21079 Hamburg",
+    "coords": "53.4656268,9.9891212",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Köz Ocakbasi",
+    "description": "Köz Ocakbasi",
+    "address": "Neue Str. 9, 21073 Hamburg",
+    "coords": "53.4612561,9.9783681",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Döner Treff Harburg",
+    "description": "Döner Treff Harburg",
+    "address": "Am Centrumshaus 5, 21073 Hamburg",
+    "coords": "53.4604182,9.9784464",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Bereket Grill",
+    "description": "Bereket Grill",
+    "address": "Harburger Ring 28, 21073 Hamburg",
+    "coords": "53.46100305,9.97927608925401",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Döner Queen Kalender",
+    "description": "Döner Queen Kalender",
+    "address": "Harburger Ring 24, 21073 Hamburg",
+    "coords": "53.46093295,9.97980843579222",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Wunder Döner",
+    "description": "Wunder Döner",
+    "address": "Schloßmühlendamm 1, 21073 Hamburg",
+    "coords": "53.46072205,9.981775748952021",
+    "price": "k.A.",
+    "rating": "4,80"
+  },
+  {
+    "name": "Dubara Harburg",
+    "description": "Dubara Harburg",
+    "address": "Schloßmühlendamm 2, 21073 Hamburg",
+    "coords": "53.4610404,9.9830939",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Döner Royal",
+    "description": "Döner Royal",
+    "address": "Deichhausweg 5, 21073 Hamburg",
+    "coords": "53.4595836,9.982041055741167",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Delikato Döner",
+    "description": "Delikato Döner",
+    "address": "Seevepassage 1-3, 21073 Hamburg",
+    "coords": "53.4575144,9.9851977",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "ZAZA KING Döner und Pizzeria",
+    "description": "ZAZA KING Döner und Pizzeria",
+    "address": "Richtung Seevepassage, Moorstraße 7, 21073 Hamburg",
+    "coords": "53.4570451773841,9.985955327366778",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "BOSPORUS LOUNGE",
+    "description": "BOSPORUS LOUNGE",
+    "address": "Hannoversche Str. 86, 21079 Hamburg",
+    "coords": "53.4562754,9.9866929",
+    "price": "k.A.",
+    "rating": "2,80"
+  },
+  {
+    "name": "Mis Tantuni & Döner",
+    "description": "Mis Tantuni & Döner",
+    "address": "Wilstorfer Str. 68, 21073 Hamburg",
+    "coords": "53.4555147,9.9868545",
+    "price": "k.A.",
+    "rating": "4,80"
+  },
+  {
+    "name": "Özlem Köfte Hamburg",
+    "description": "Özlem Köfte Hamburg",
+    "address": "Wilstorfer Str. 72, 21073 Hamburg",
+    "coords": "53.4552653,9.9870625",
+    "price": "k.A.",
+    "rating": "5,00"
+  },
+  {
+    "name": "Kaya Döner",
+    "description": "Kaya Döner",
+    "address": "Trelder Weg 1, 21079 Hamburg",
+    "coords": "53.4400115,9.9890918",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Star Döner",
+    "description": "Star Döner",
+    "address": "Ernst-Bergeest-Weg 59, 21077 Hamburg",
+    "coords": "53.44105125,9.959707863907287",
+    "price": "k.A.",
+    "rating": "3,00"
+  },
+  {
+    "name": "Elbdöner",
+    "description": "Elbdöner",
+    "address": "Eißendorfer Str. 72, 21073 Hamburg",
+    "coords": "53.458034600000005,9.966006875000009",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Uni-Grillhouse",
+    "description": "Uni-Grillhouse",
+    "address": "Eißendorfer Str. 21, 21073 Hamburg",
+    "coords": "53.4601023,9.9753693093725",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Döner Connection",
+    "description": "Döner Connection",
+    "address": "Alter Postweg 31, 21075 Hamburg",
+    "coords": "53.4647429,9.9642418",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Döner & Getränkewelt",
+    "description": "Döner & Getränkewelt",
+    "address": "Große Rainstraße 4, 22765 Hamburg",
+    "coords": "53.5522685,9.9304909",
+    "price": "k.A.",
+    "rating": "3,60"
+  },
+  {
+    "name": "URFA TADI",
+    "description": "URFA TADI",
+    "address": "Bahrenfelder Str. 120, 22765 Hamburg",
+    "coords": "53.5526571,9.930169718333334",
+    "price": "k.A.",
+    "rating": "4,80"
+  },
+  {
+    "name": "Hatay Grill Imbiss",
+    "description": "Hatay Grill Imbiss",
+    "address": "Heimfelder Str. 4, 21075 Hamburg",
+    "coords": "53.4653518,9.962189504941179",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Neugrabener Grillhouse",
+    "description": "Neugrabener Grillhouse",
+    "address": "Neugrabener Markt 2, 21149 Hamburg",
+    "coords": "53.4699096,9.853932",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Bey Kebab",
+    "description": "Bey Kebab",
+    "address": "Bahrenfelder Str. 115, 22765 Hamburg",
+    "coords": "53.5528856,9.9296472",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Salli‘s Kebap & Grill",
+    "description": "Salli‘s Kebap & Grill",
+    "address": "Scheel-Plessen-Straße 19, 22765 Hamburg",
+    "coords": "53.5525236,9.934374000327171",
+    "price": "k.A.",
+    "rating": "3,40"
+  },
+  {
+    "name": "Tosun",
+    "description": "Tosun",
+    "address": "Ottenser Hauptstraße 2-6, 22765 Hamburg",
+    "coords": "53.5524098,9.9333892",
+    "price": "k.A.",
+    "rating": "4,90"
+  },
+  {
+    "name": "Big Döner House",
+    "description": "Big Döner House",
+    "address": "Neugrabener Bahnhofstraße 10, 21149 Hamburg",
+    "coords": "53.47126415,9.854073951203416",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "ÖZ URFA",
+    "description": "ÖZ URFA",
+    "address": "Cuxhavener Str. 342, 21149 Hamburg",
+    "coords": "53.4728719,9.853278271373306",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Dilay Döner",
+    "description": "Dilay Döner",
+    "address": "Ottenser Hauptstraße 10, 22765 Hamburg",
+    "coords": "53.5529486,9.9315011",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Köz Urfa",
+    "description": "Köz Urfa",
+    "address": "Paul-Nevermann-Platz 2, 22765 Hamburg",
+    "coords": "53.5525912,9.9363141",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Köz Ach Der Deniz Hamburg",
+    "description": "Köz Ach Der Deniz Hamburg",
+    "address": "Rehrstieg 30C, 21147 Hamburg",
+    "coords": "53.4749076,9.8757144",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Nasip Grill",
+    "description": "Nasip Grill",
+    "address": "Bahrenfelder Str. 183, 22765 Hamburg",
+    "coords": "53.5548721,9.9284266",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Dream Döner",
+    "description": "Dream Döner",
+    "address": "Rehrstieg 50A, 21147 Hamburg",
+    "coords": "53.4793512,9.8746924",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Diyar´s Döner Kebap & Backshop",
+    "description": "Diyar´s Döner Kebap & Backshop",
+    "address": "Rehrstieg 54, 21147 Hamburg",
+    "coords": "53.4800693,9.875058606294118",
+    "price": "k.A.",
+    "rating": "3,70"
+  },
+  {
+    "name": "KÖZ GRİLL HOUSE",
+    "description": "KÖZ GRİLL HOUSE",
+    "address": "Cuxhavener Str. 142, 21149 Hamburg",
+    "coords": "53.4722441,9.8892651783654",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Toros TANTUNI",
+    "description": "Toros TANTUNI",
+    "address": "Bahrenfelder Str. 185, 22765 Hamburg",
+    "coords": "53.555014,9.9284294",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Tarsusi - anatolian street food",
+    "description": "Tarsusi - anatolian street food",
+    "address": "Bahrenfelder Str. 205, 22765 Hamburg",
+    "coords": "53.5556974,9.928318",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Salli Salman",
+    "description": "Salli Salman",
+    "address": "Wilhelmsburger Pl. 10, 20539 Hamburg",
+    "coords": "53.52278275,10.014234424980055",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Schippels Döner",
+    "description": "Schippels Döner",
+    "address": "Paul-Sorge-Straße 142B, 22455 Hamburg",
+    "coords": "53.6342839,9.9534975",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Dönerei",
+    "description": "Dönerei",
+    "address": "Rothenburgsorter Marktpl. 1-9, 20539 Hamburg",
+    "coords": "53.5343029,10.0388706",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Der Kebap",
+    "description": "Der Kebap",
+    "address": "Billhorner Röhrendamm 94, 20539 Hamburg",
+    "coords": "53.5367134,10.033745",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Der Simo",
+    "description": "Der Simo",
+    "address": "Billhorner Mühlenweg 22, 20539 Hamburg",
+    "coords": "53.53644145,10.03330633948025",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "myKöz",
+    "description": "myKöz",
+    "address": "Billhorner Röhrendamm 98, 20539 Hamburg",
+    "coords": "53.53642105,10.034315673760409",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Döner Kitchen",
+    "description": "Döner Kitchen",
+    "address": "Billhorner Deich 98, 20539 Hamburg",
+    "coords": "53.5388035,10.042566",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "WaRé Imbiss",
+    "description": "WaRé Imbiss",
+    "address": "Billstraße 114/116, 20539 Hamburg",
+    "coords": "53.5404601,10.0421179",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Sultan's Kebab",
+    "description": "Sultan's Kebab",
+    "address": "Hammerbrookstraße 75, 20097 Hamburg",
+    "coords": "53.5461297,10.0245061",
+    "price": "k.A.",
+    "rating": "3,70"
+  },
+  {
+    "name": "Aras Kebab Döner",
+    "description": "Aras Kebab Döner",
+    "address": "Spaldingstraße 55, 20097 Hamburg",
+    "coords": "53.5486117,10.0136416",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Reeperbahn 5, 20359 Hamburg",
+    "description": "Reeperbahn 5, 20359 Hamburg",
+    "address": "Reeperbahn 5, 20359 Hamburg",
+    "coords": "53.550357500000004,9.967371518817389",
+    "price": "k.A.",
+    "rating": "2,90"
+  },
+  {
+    "name": "Kebab Dream",
+    "description": "Kebab Dream",
+    "address": "Helmut Steidl Pl. 1, 22143 Hamburg",
+    "coords": "53.6049353,10.1551192",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Köz-Antep",
+    "description": "Köz-Antep",
+    "address": "Clemens-Schultz-Straße 26, 20359 Hamburg",
+    "coords": "53.5521641,9.9640589",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Döner Factory",
+    "description": "Döner Factory",
+    "address": "Reeperbahn 83b, 20359 Hamburg",
+    "coords": "53.5494586,9.9601257",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Döner Welt Getränke Welt",
+    "description": "Döner Welt Getränke Welt",
+    "address": "Reeperbahn 103, 20359 Hamburg",
+    "coords": "53.549195,9.9611019",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Antep Gülbaba Köz",
+    "description": "Antep Gülbaba Köz",
+    "address": "Reeperbahn 143, 20359 Hamburg",
+    "coords": "53.5493702,9.9589879",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Reeperbahn Döner",
+    "description": "Reeperbahn Döner",
+    "address": "20359 Hamburg",
+    "coords": "53.5495137499811,9.959443511011223",
+    "price": "k.A.",
+    "rating": "3,70"
+  },
+  {
+    "name": "Mardin Döner",
+    "description": "Mardin Döner",
+    "address": "Reeperbahn 108, 20359 Hamburg",
+    "coords": "53.5497249,9.9606753",
+    "price": "k.A.",
+    "rating": "3,50"
+  },
+  {
+    "name": "Kiez Döner",
+    "description": "Kiez Döner",
+    "address": "Reeperbahn 162, 20359 Hamburg",
+    "coords": "53.5498328,9.9582239",
+    "price": "k.A.",
+    "rating": "2,20"
+  },
+  {
+    "name": "Döner Freiheit",
+    "description": "Döner Freiheit",
+    "address": "Große Freiheit 15, 22767 Hamburg",
+    "coords": "53.5505739,9.957471",
+    "price": "k.A.",
+    "rating": "3,20"
+  },
+  {
+    "name": "Deniz Imbiss - Döner & Pizza",
+    "description": "Deniz Imbiss - Döner & Pizza",
+    "address": "Talstraße 27, 20359 Hamburg",
+    "coords": "53.5506312,9.958876",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Berg Grill Imbiss",
+    "description": "Berg Grill Imbiss",
+    "address": "Hamburger Berg, 20359 Hamburg",
+    "coords": "53.5495201,9.9613601",
+    "price": "k.A.",
+    "rating": "1,50"
+  },
+  {
+    "name": "Babanin Yeri",
+    "description": "Babanin Yeri",
+    "address": "Paul-Roosen-Straße 21, 22767 Hamburg",
+    "coords": "53.55301775,9.958218949516832",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Pauli Döner",
+    "description": "Pauli Döner",
+    "address": "Wohlwillstraße 53, 20359 Hamburg",
+    "coords": "53.55599015,9.962556350226677",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Bunker Döner",
+    "description": "Bunker Döner",
+    "address": "Feldstraße 32, 20357 Hamburg",
+    "coords": "53.5574736,9.9699334",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Big Food Imbiss",
+    "description": "Big Food Imbiss",
+    "address": "Schulterblatt 13, 20357 Hamburg",
+    "coords": "53.5596887,9.9635934",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Kebaba Dein Dönermann",
+    "description": "Kebaba Dein Dönermann",
+    "address": "Susannenstraße 10, 20357 Hamburg",
+    "coords": "53.5621051,9.9631568",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Pamukkale Köz Schanze",
+    "description": "Pamukkale Köz Schanze",
+    "address": "Susannenstraße 34-35, 20357 Hamburg",
+    "coords": "53.5627533,9.9646018",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Schanzen Döner",
+    "description": "Schanzen Döner",
+    "address": "Schanzenstraße 101, 20357 Hamburg",
+    "coords": "53.5639926,9.9652408",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Soulkebab Schanze",
+    "description": "Soulkebab Schanze",
+    "address": "Schanzenstraße 115, 20357 Hamburg",
+    "coords": "53.5645682,9.965335385745341",
+    "price": "k.A.",
+    "rating": "3,50"
+  },
+  {
+    "name": "Sallis",
+    "description": "Sallis",
+    "address": "Schäferkampsallee 2, 20357 Hamburg",
+    "coords": "53.5678361,9.9692862",
+    "price": "k.A.",
+    "rating": "3,40"
+  },
+  {
+    "name": "Ali's Döner To-Go",
+    "description": "Ali's Döner To-Go",
+    "address": "Grindelallee 83, 20146 Hamburg",
+    "coords": "53.5675015,9.980242060135257",
+    "price": "k.A.",
+    "rating": "2,30"
+  },
+  {
+    "name": "UNI DÖNER",
+    "description": "UNI DÖNER",
+    "address": "Grindelhof 2, 20146 Hamburg",
+    "coords": "53.567199,9.981268",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Campus Döner",
+    "description": "Campus Döner",
+    "address": "Grindelallee 88, 20146 Hamburg",
+    "coords": "53.56703955,9.98144758063798",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Tuana Döner und mehr",
+    "description": "Tuana Döner und mehr",
+    "address": "Binderstraße 13, 20146 Hamburg",
+    "coords": "53.5676926,9.9877236",
+    "price": "k.A.",
+    "rating": "4,50"
+  },
+  {
+    "name": "Doy Doy Kebap House",
+    "description": "Doy Doy Kebap House",
+    "address": "Kottwitzstraße 43, 20253 Hamburg",
+    "coords": "53.57994635,9.966734080921054",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Grill Center",
+    "description": "Grill Center",
+    "address": "Müggenkampstraße 1, 20257 Hamburg",
+    "coords": "53.5794445,9.9454352",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "S&S Grill",
+    "description": "S&S Grill",
+    "address": "Wrangelstraße 101, 20253 Hamburg",
+    "coords": "53.583079749999996,9.966499287671555",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Sel Kebap's",
+    "description": "Sel Kebap's",
+    "address": "Gärtnerstraße 14, 20253 Hamburg",
+    "coords": "53.58413765,9.968660824001182",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Okay Grill",
+    "description": "Okay Grill",
+    "address": "Lappenbergsallee 46, 20257 Hamburg",
+    "coords": "53.5775893,9.9420555",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Kalkan Döner Kebap",
+    "description": "Kalkan Döner Kebap",
+    "address": "Osterstraße 141, 20255 Hamburg",
+    "coords": "53.5761418,9.9496397",
+    "price": "k.A.",
+    "rating": "3,10"
+  },
+  {
+    "name": "Cheatday Kebab",
+    "description": "Cheatday Kebab",
+    "address": "Hoheluftchaussee 45, 20253 Hamburg",
+    "coords": "53.5803935,9.973268485557966",
+    "price": "k.A.",
+    "rating": "5,00"
+  },
+  {
+    "name": "My Kebap´s",
+    "description": "My Kebap´s",
+    "address": "Hoheluftchaussee 30, 20253 Hamburg",
+    "coords": "53.5800852,9.9745776",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Golden Kebab Eimsbüttel",
+    "description": "Golden Kebab Eimsbüttel",
+    "address": "Stellinger Weg 10, 20255 Hamburg",
+    "coords": "53.5783523,9.9512042",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "TimeOut - Istanbul Streetfood",
+    "description": "TimeOut - Istanbul Streetfood",
+    "address": "Hoheluftchaussee 131, 20253 Hamburg",
+    "coords": "53.5789704,9.97556",
+    "price": "k.A.",
+    "rating": "4,80"
+  },
+  {
+    "name": "Blankeneser Imbiss",
+    "description": "Blankeneser Imbiss",
+    "address": "Erik-Blumenfeld-Platz 29, 22587 Hamburg",
+    "coords": "53.5638607,9.8139214",
+    "price": "k.A.",
+    "rating": "3,00"
+  },
+  {
+    "name": "K&R Grillhouse",
+    "description": "K&R Grillhouse",
+    "address": "Reventlowstraße 64A, 22605 Hamburg",
+    "coords": "53.559138950000005,9.887463406227273",
+    "price": "k.A.",
+    "rating": "2,70"
+  },
+  {
+    "name": "Rissener Döner Pavillon",
+    "description": "Rissener Döner Pavillon",
+    "address": "Wedeler Landstraße 53 E, 22559 Hamburg",
+    "coords": "53.5817007,9.75464424105639",
+    "price": "k.A.",
+    "rating": "4,70"
+  },
+  {
+    "name": "Döner 58",
+    "description": "Döner 58",
+    "address": "22523 Hamburg",
+    "coords": "53.61610455468348,9.905113188868818",
+    "price": "k.A.",
+    "rating": "3,70"
+  },
+  {
+    "name": "KeBaP Lounge",
+    "description": "KeBaP Lounge",
+    "address": "Koppelstraße 45, 22529 Hamburg",
+    "coords": "53.5931485,9.9437272",
+    "price": "k.A.",
+    "rating": "3,50"
+  },
+  {
+    "name": "Kebab Bey",
+    "description": "Kebab Bey",
+    "address": "Eppendorfer Baum 41, 20249 Hamburg",
+    "coords": "53.5845015,9.9818138",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Insel Döner",
+    "description": "Insel Döner",
+    "address": "Steendiek 24, 21129 Hamburg",
+    "coords": "53.533369,9.877918",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "ÖZ Harput Grill Haus",
+    "description": "ÖZ Harput Grill Haus",
+    "address": "Finkenwerder Norderdeich 94, 21129 Hamburg",
+    "coords": "53.533327799999995,9.87675021920569",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Döner Meile",
+    "description": "Döner Meile",
+    "address": "Hamburger Str., 22083 Hamburg",
+    "coords": "53.5744808,10.0373151",
+    "price": "k.A.",
+    "rating": "3,30"
+  },
+  {
+    "name": "Dr.Kebap",
+    "description": "Dr.Kebap",
+    "address": "Hamburger Str. 27, 22083 Hamburg",
+    "coords": "53.5734556,10.031682311611911",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Nøne Meat Hamburg",
+    "description": "Nøne Meat Hamburg",
+    "address": "Hoheluftchaussee 83, 20253 Hamburg",
+    "coords": "53.5816246,9.9719945",
+    "price": "k.A.",
+    "rating": "4,70"
+  },
+  {
+    "name": "Kaya Salate & Feinkost",
+    "description": "Kaya Salate & Feinkost",
+    "address": "Tibarg 41-43, 22459 Hamburg",
+    "coords": "53.622402199999996,9.952512053858968",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Enes Döner",
+    "description": "Enes Döner",
+    "address": "Nedderfeld 15, 22529 Hamburg",
+    "coords": "53.6036043,9.9665774",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "La Delizia Restaurant",
+    "description": "La Delizia Restaurant",
+    "address": "Hoheluftchaussee 66, 20253 Hamburg",
+    "coords": "53.5822371,9.9720116",
+    "price": "k.A.",
+    "rating": "4,70"
+  },
+  {
+    "name": "Borstel Kebab",
+    "description": "Borstel Kebab",
+    "address": "Borsteler Chaussee 103-105, 22453 Hamburg",
+    "coords": "53.6057241,9.9825663",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "My Kebap‘s",
+    "description": "My Kebap‘s",
+    "address": "Eppendorfer Marktpl. 5, 20251 Hamburg",
+    "coords": "53.59300975,9.988694348736377",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "SoulKebab",
+    "description": "SoulKebab",
+    "address": "Lattenkamp 33, 22299 Hamburg",
+    "coords": "53.5997767,9.9948829",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Dürüm",
+    "description": "Dürüm",
+    "address": "Bornheide 49, 22549 Hamburg",
+    "coords": "53.585104,9.8517924",
+    "price": "k.A.",
+    "rating": "3,20"
+  },
+  {
+    "name": "Shawarma Marina",
+    "description": "Shawarma Marina",
+    "address": "Wandsbeker Chaussee 29, 22089 Hamburg",
+    "coords": "53.5657178,10.0372054",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Larisa-bauchstation Restaurant",
+    "description": "Larisa-bauchstation Restaurant",
+    "address": "Steendiek 11, 21129 Hamburg",
+    "coords": "53.533179200000006,9.8781577",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "Mina Restaurant (Luna Center)",
+    "description": "Mina Restaurant (Luna Center)",
+    "address": "Wilhelm-Strauß-Weg 8, 21109 Hamburg",
+    "coords": "53.4980866,10.0080765",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Hünkar",
+    "description": "Hünkar",
+    "address": "Schloßmühlendamm 14, 21073 Hamburg",
+    "coords": "53.46208905,9.982066889820498",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "BEYOĞLU KEBAP HOUSE",
+    "description": "BEYOĞLU KEBAP HOUSE",
+    "address": "Großneumarkt 38, 20459 Hamburg",
+    "coords": "53.5499301,9.97950165313688",
+    "price": "k.A.",
+    "rating": "4,70"
+  },
+  {
+    "name": "Mr. Kebab",
+    "description": "Mr. Kebab",
+    "address": "Beim Grünen Jäger 1, 20359 Hamburg",
+    "coords": "53.556559,9.96265468203038",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Soul Kebab",
+    "description": "Soul Kebab",
+    "address": "Neuer Kamp 31, 20359 Hamburg",
+    "coords": "53.556360850000004,9.966176448578972",
+    "price": "k.A.",
+    "rating": "3,20"
+  },
+  {
+    "name": "SERHAT-Döner",
+    "description": "SERHAT-Döner",
+    "address": "Eiffestraße 95, 20537 Hamburg",
+    "coords": "53.5527721,10.0415349",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "Holsten Döner",
+    "description": "Holsten Döner",
+    "address": "Holstenpl. 20, 22765 Hamburg",
+    "coords": "53.5616642,9.9486273",
+    "price": "k.A.",
+    "rating": "3,30"
+  },
+  {
+    "name": "Max Döner",
+    "description": "Max Döner",
+    "address": "Max-Brauer-Allee 170, 22765 Hamburg",
+    "coords": "53.5500968,9.936091",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Ali Baba Döner & Grill",
+    "description": "Ali Baba Döner & Grill",
+    "address": "Große Bergstraße 227, 22767 Hamburg",
+    "coords": "53.552025900000004,9.94186475620209",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Döner Time",
+    "description": "Döner Time",
+    "address": "Große Bergstraße 237, 22767 Hamburg",
+    "coords": "53.5520016,9.9409578",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Köz Sultan Kebap Döner",
+    "description": "Köz Sultan Kebap Döner",
+    "address": "Große Bergstraße 243, 22767 Hamburg",
+    "coords": "53.5520257,9.9404884",
+    "price": "k.A.",
+    "rating": "4,70"
+  },
+  {
+    "name": "Kebab House KURTULAN",
+    "description": "Kebab House KURTULAN",
+    "address": "Leverkusenstraße 2, 22761 Hamburg",
+    "coords": "53.5643941,9.9265566",
+    "price": "k.A.",
+    "rating": "4,60"
+  },
+  {
+    "name": "The Salli's Kiosk Kebab & Veggie",
+    "description": "The Salli's Kiosk Kebab & Veggie",
+    "address": "Kurze Mühren 4, 20095 Hamburg",
+    "coords": "53.5528347,10.0037572",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "Burg Döner",
+    "description": "Burg Döner",
+    "address": "Burgstraße 1, 20535 Hamburg",
+    "coords": "53.5592559,10.0389029",
+    "price": "k.A.",
+    "rating": "3,70"
+  },
+  {
+    "name": "Star Döner",
+    "description": "Star Döner",
+    "address": "22761 Altona",
+    "coords": "53.5652765235981,9.912260600522252",
+    "price": "k.A.",
+    "rating": "3,10"
+  },
+  {
+    "name": "Dave's Döner & Bowls",
+    "description": "Dave's Döner & Bowls",
+    "address": "Theodor-Heuss-Platz 1, 20354 Hamburg",
+    "coords": "53.5606607,9.9896868",
+    "price": "k.A.",
+    "rating": "3,70"
+  },
+  {
+    "name": "Havin Grill",
+    "description": "Havin Grill",
+    "address": "Steintorwall 18-20, 20095 Hamburg",
+    "coords": "53.55222535,10.00614999145781",
+    "price": "k.A.",
+    "rating": "3,50"
+  },
+  {
+    "name": "Soulkebab",
+    "description": "Soulkebab",
+    "address": "Fuhlsbüttler Str. 97, 22305 Hamburg",
+    "coords": "53.5878452,10.0457672",
+    "price": "k.A.",
+    "rating": "3,80"
+  },
+  {
+    "name": "Sultan's",
+    "description": "Sultan's",
+    "address": "Fuhlsbüttler Str. 91, 22305 Hamburg",
+    "coords": "53.5873548,10.0459548",
+    "price": "k.A.",
+    "rating": "4,20"
+  },
+  {
+    "name": "Volkan's Grillhaus Horn",
+    "description": "Volkan's Grillhaus Horn",
+    "address": "Rennbahnstraße 38 c, 22111 Hamburg",
+    "coords": "53.5538993,10.0851709",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "BAN BAB KEBABKLUB",
+    "description": "BAN BAB KEBABKLUB",
+    "address": "Marktstraße 130, 20357 Hamburg",
+    "coords": "53.5585215,9.9726826",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Dönertreff",
+    "description": "Dönertreff",
+    "address": "Nordschleswiger Str. 59A, 22049 Hamburg",
+    "coords": "53.5864378,10.0648425",
+    "price": "k.A.",
+    "rating": "3,90"
+  },
+  {
+    "name": "Ardacan Grillhaus",
+    "description": "Ardacan Grillhaus",
+    "address": "Hardorffsweg 15, 22305 Hamburg",
+    "coords": "53.5927343,10.0439616",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Malik Pizza",
+    "description": "Malik Pizza",
+    "address": "Sandweg 3, 20257 Hamburg",
+    "coords": "53.5721551,9.94999705640351",
+    "price": "k.A.",
+    "rating": "4,10"
+  },
+  {
+    "name": "Malik Pizza",
+    "description": "Malik Pizza",
+    "address": "Schreyerring 26, 22309 Hamburg",
+    "coords": "53.6110587,10.058363178891547",
+    "price": "k.A.",
+    "rating": "3,40"
+  },
+  {
+    "name": "Lezzet",
+    "description": "Lezzet",
+    "address": "Fuhlsbüttler Str. 173, 22307 Hamburg",
+    "coords": "53.5942607,10.0438456",
+    "price": "k.A.",
+    "rating": "4,2"
+  },
+  {
+    "name": "Ach der Deniz",
+    "description": "Ach der Deniz",
+    "address": "Wandsbeker Chaussee 156, 22089 Hamburg",
+    "coords": "53.5679897,10.0489439",
+    "price": "k.A.",
+    "rating": "4,30"
+  },
+  {
+    "name": "As Urfa Harburg",
+    "description": "As Urfa Harburg",
+    "address": "Moorstraße 2, 21073 Hamburg",
+    "coords": "53.4566985,9.9859384",
+    "price": "k.A.",
+    "rating": "4,00"
+  },
+  {
+    "name": "KÖZ KAPADOKYA RESTAURANT Hamburg",
+    "description": "KÖZ KAPADOKYA RESTAURANT Hamburg",
+    "address": "Veringstraße 126, 21107 Hamburg",
+    "coords": "53.5065545,9.9863735",
+    "price": "k.A.",
+    "rating": "4,40"
+  },
+  {
+    "name": "Kebap Salonu",
+    "description": "Kebap Salonu",
+    "address": "Steindamm 4, 20099 Hamburg",
+    "coords": "53.5527461,10.010862654162992",
+    "price": "k.A.",
+    "rating": "3,40"
+  },
+  {
+    "name": "Döner Platz",
+    "description": "Döner Platz",
+    "address": "Duvenstedter Damm 56, 22397 Hamburg",
+    "coords": "53.7086202,10.1072824",
+    "price": "k.A.",
+    "rating": "4,10"
+  }
+]
